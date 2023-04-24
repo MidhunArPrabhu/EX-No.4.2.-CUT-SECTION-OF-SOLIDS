@@ -1,16 +1,20 @@
-# EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
+# EXPERIMENT No.4.2 
+# CUT SECTION OF SOLIDS
 
-## AIM: 
+
+## AIM :
+
 To create the solid model from given drawing and section the solid model
 
-## REQUIREMENTS: 
+## REQUIREMENTS :
+
 1. Autodesk fusion 360
 2. Windows 10
 3. 16 GB of RAM (integrated graphics recommend 1 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
-## PROCEDURE:
+## PROCEDURE :
+
 1.	Open new file and then select sketch icon.
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
@@ -37,13 +41,16 @@ To create the solid model from given drawing and section the solid model
  
  ![image](https://user-images.githubusercontent.com/113594316/198826282-7a4844a8-0cb2-4573-8940-9a60356b7d04.png)
 
-## INPUT:
+## INPUT :
 
-![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
+![image](https://user-images.githubusercontent.com/118054670/233903986-dcfc002f-732d-47f6-ada1-4ecfb6fd5a9a.png)
 
-## OUTPUT:
 
-## RESULT:
+## OUTPUT :
+
+![image](https://user-images.githubusercontent.com/118054670/233903543-536fb086-8f5f-4579-9138-634f16718ac6.png)
+
+## RESULT :
 Thus, the cut section for solid model is created.
 
 
